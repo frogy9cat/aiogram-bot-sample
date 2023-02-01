@@ -11,5 +11,5 @@
 
 
 BOT_TOKEN='{bot token}'
-ADMINS=['telegram id']
+ADMINS=['{telegram id}']
 IP='localhost'
